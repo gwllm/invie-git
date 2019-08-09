@@ -1,2 +1,4 @@
-# invie-git
-Guitarras invie-sibles cool by@platzi
+# invie
+Las guitarras más locas
+
+http://leonidasesteban.github.io/invie-responsive/
